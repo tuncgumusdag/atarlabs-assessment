@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<suite name="TestSuite" preserve-order="true">
+
+    <test name="Tests">
+        <classes>
+            <class name="Tests.HomePageTest"/>
+            <class name="Tests.CreateLoginPageTest"/>
+            <class name="Tests.ListsPageTest"/>
+            <class name="Tests.ResultsPageTest"/>
+        </classes>
+    </test>
+
+</suite>
